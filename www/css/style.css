@@ -30,13 +30,24 @@ html {
   margin: auto;
 }
 
-.box2 {
+/*.box2 {
   background-color: white;
   width: 95%;
   margin:auto;
   padding: 10px;
   border-radius: 5px;
 
+}*/
+
+.button {
+  width: 97.25%;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.space {
+  padding-left: 2.5%;
+  padding-top: 10px;
 }
 
 #title {
@@ -56,4 +67,61 @@ html {
   color: rgb(128,128,128);
   font-size: 17px;
   font-weight: bolder;
+}
+
+.content {
+  background-color: white;
+  width:95%;
+  margin: auto;
+  border-radius: 5px;
+  height: 600px;
+  padding: 40px;
+
+}
+
+#capacity {
+  padding-top: 15px;
+  font-size: 17px;
+  color: rgb(128,128,128);
+  font-weight: bold;
+}
+
+#cNumber {
+  display: inline;
+  color: rgb(128,128,128);
+  font-size: 17px;
+}
+
+#wifi {
+  padding-top: 15px;
+  font-size: 18px;
+  color: rgb(128,128,128);
+  font-weight: bold;
+}
+
+#computer {
+  padding-top: 15px;
+  font-size: 18px;
+  color: rgb(128,128,128);
+  font-weight: bold;
+}
+
+#availabilty {
+  padding-top: 15px;
+  font-size: 18px;
+  color: rgb(128,128,128);
+  font-weight: bold;
+}
+
+#address {
+  font-size: 15;
+  color: rgb(128,128,128);
+}
+
+img {
+  height: 200px;
+}
+
+.image {
+  padding-top: 15px;
 }
